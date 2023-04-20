@@ -4,9 +4,8 @@
     "\\public",
     "\\src",
     "\\src\\assets",
-    "\\src\\components",
-    "\\src\\components\\Layout"
+    "\\src\\components"
   ],
-  "SelectedNode": "\\src\\components\\Layout\\Header.vue",
+  "SelectedNode": "\\src\\components",
   "PreviewInSolutionExplorer": false
 }
