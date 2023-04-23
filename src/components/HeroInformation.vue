@@ -55,7 +55,7 @@
             background: #fff;
             max-width: 630px;
             padding: 50px 55px;
-            max-height: 444px;
+            min-height: 400px;
             display: flex;
             flex-direction: column;
             justify-content: space-between;
