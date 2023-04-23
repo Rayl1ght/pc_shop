@@ -4,6 +4,7 @@
         <Hero />
         <AboutBrand />
         <Products/>
+        <Ideas/>
     </div>
 </template>
 
@@ -12,6 +13,8 @@
     import Hero from './components/Hero.vue'
     import AboutBrand from './components/AboutBrand.vue'
     import Products from './components/Products4Column.vue'
+    import Ideas from './components/Ideas.vue'
+    
 
 </script>
 

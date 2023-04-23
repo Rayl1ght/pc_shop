@@ -25,19 +25,19 @@
         {
             id: 2,
             img: '/img/product2.jpg',
-            title: 'Video card',
+            title: 'CPU',
             price: 250
         },
         {
             id: 3,
             img: '/img/product3.jpg',
-            title: 'Video card',
+            title: 'RAM',
             price: 250
         },
         {
             id: 4,
             img: '/img/product4.jpg',
-            title: 'Video card',
+            title: 'Power unit',
             price: 250
         }
     ])

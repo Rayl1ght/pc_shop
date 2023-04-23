@@ -5,7 +5,6 @@
                 title="Cool PC"
                 description="900 $"
                 link="#"/>
-            
         </div>
     </div>
 </template>
@@ -28,35 +27,5 @@
             max-width: 100%;
         }
 
-        &-info {
-            background: #fff;
-            max-width: 630px;
-            padding: 50px 55px;
-            height: 444px;
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
-
-            &__title {
-                font-family: 'Satoshi', sans-serif;
-                font-weight: 400;
-                line-height: 1.5;
-                margin: 0 0 20px;
-            }
-
-            &__description {
-                color: #5b5676;
-                font-size: 18px;
-            }
-
-            &-link {
-                color: #2A254B;
-                text-decoration: none;
-
-                &:hover {
-                    text-decoration: underline;
-                }
-            }
-        }
     }  
 </style>

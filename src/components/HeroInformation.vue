@@ -1,9 +1,19 @@
 <template>
-    <div class="hero-info-text">
-        <h2 class="hero-info__title">{{title}}</h2>
-        <span class="hero-info__description">{{description}}</span>
+    <div 
+         class="hero-info" 
+         :style="{backgroundColor: background}">
+        <div class="hero-info-text">
+            <h2 class="hero-info__title"
+                :style="{color: colorTitle}">
+                {{title}}
+            </h2>
+            <span class="hero-info__description"
+                  :style="{color: colorDescription}">{{description}}</span>
+        </div>
+        <a :href="link"
+           :style="{color: colorLink}"
+           class="hero-info-link">BUY</a>
     </div>
-    <a :href="link" class="hero-info-link">BUY</a>
 </template>
 
 <script setup>
@@ -19,6 +29,22 @@
         link: {
             type: String,
             required: false
+        },
+        colorTitle: {
+            type: String,
+            default: ''
+        },
+        colorDescription: {
+            type: String,
+            default: '#5B5676'
+        },
+        colorLink: {
+            type: String,
+            default: '#2A254B'
+        },
+        background: {
+            type: String,
+            default: '#fff'
         }
     })
 </script>
@@ -29,7 +55,7 @@
             background: #fff;
             max-width: 630px;
             padding: 50px 55px;
-            height: 444px;
+            max-height: 444px;
             display: flex;
             flex-direction: column;
             justify-content: space-between;
@@ -42,16 +68,23 @@
             }
 
             &__description {
-                color: #5b5676;
+                color: #5B5676;
                 font-size: 18px;
             }
 
             &-link {
                 color: #2A254B;
                 text-decoration: none;
+                width: 80px;
+                height: 56px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                background: rgba(249, 249, 249, 0.15);
+                cursor: pointer;
 
                 &:hover {
-                    text-decoration: underline;
+                    background: rgba(249, 249, 249, 0.30);
                 }
             }
         }
