@@ -4,8 +4,9 @@
     "\\public",
     "\\src",
     "\\src\\assets",
-    "\\src\\components"
+    "\\src\\components",
+    "\\src\\components\\Layout"
   ],
-  "SelectedNode": "\\src\\components",
+  "SelectedNode": "\\src\\components\\Product.vue",
   "PreviewInSolutionExplorer": false
 }
