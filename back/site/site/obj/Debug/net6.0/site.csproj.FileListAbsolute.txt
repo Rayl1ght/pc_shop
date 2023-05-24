@@ -1,0 +1,196 @@
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\appsettings.json
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\site.staticwebassets.runtime.json
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\site.exe
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\site.deps.json
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\site.runtimeconfig.json
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\site.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\site.pdb
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\Humanizer.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\obj\Debug\net6.0\site.csproj.AssemblyReference.cache
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\obj\Debug\net6.0\site.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\obj\Debug\net6.0\site.AssemblyInfoInputs.cache
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\obj\Debug\net6.0\site.AssemblyInfo.cs
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\obj\Debug\net6.0\site.csproj.CoreCompileInputs.cache
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\obj\Debug\net6.0\site.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\obj\Debug\net6.0\site.RazorAssemblyInfo.cache
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\obj\Debug\net6.0\site.RazorAssemblyInfo.cs
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\obj\Debug\net6.0\staticwebassets\msbuild.site.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\obj\Debug\net6.0\staticwebassets\msbuild.build.site.props
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.site.props
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.site.props
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\obj\Debug\net6.0\scopedcss\bundle\site.styles.css
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\obj\Debug\net6.0\site.csproj.CopyComplete
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\obj\Debug\net6.0\site.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\obj\Debug\net6.0\refint\site.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\obj\Debug\net6.0\site.pdb
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\obj\Debug\net6.0\site.genruntimeconfig.cache
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\obj\Debug\net6.0\ref\site.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\obj\Debug\net6.0\scopedcss\projectbundle\site.bundle.scp.css
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\appsettings.json
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\site.staticwebassets.runtime.json
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\site.exe
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\site.deps.json
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\site.runtimeconfig.json
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\site.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\site.pdb
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\Humanizer.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\obj\Debug\net6.0\site.csproj.AssemblyReference.cache
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\obj\Debug\net6.0\site.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\obj\Debug\net6.0\site.AssemblyInfoInputs.cache
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\obj\Debug\net6.0\site.AssemblyInfo.cs
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\obj\Debug\net6.0\site.csproj.CoreCompileInputs.cache
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\obj\Debug\net6.0\site.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\obj\Debug\net6.0\site.RazorAssemblyInfo.cache
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\obj\Debug\net6.0\site.RazorAssemblyInfo.cs
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\obj\Debug\net6.0\staticwebassets\msbuild.site.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\obj\Debug\net6.0\staticwebassets\msbuild.build.site.props
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.site.props
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.site.props
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\obj\Debug\net6.0\scopedcss\bundle\site.styles.css
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\obj\Debug\net6.0\scopedcss\projectbundle\site.bundle.scp.css
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\obj\Debug\net6.0\site.csproj.CopyComplete
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\obj\Debug\net6.0\site.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\obj\Debug\net6.0\refint\site.dll
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\obj\Debug\net6.0\site.pdb
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\obj\Debug\net6.0\site.genruntimeconfig.cache
+C:\Users\eleiy\OneDrive\Рабочий стол\site\site\site\obj\Debug\net6.0\ref\site.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\appsettings.Development.json
+D:\desktop\site\site\site\bin\Debug\net6.0\appsettings.json
+D:\desktop\site\site\site\bin\Debug\net6.0\site.staticwebassets.runtime.json
+D:\desktop\site\site\site\bin\Debug\net6.0\site.exe
+D:\desktop\site\site\site\bin\Debug\net6.0\site.deps.json
+D:\desktop\site\site\site\bin\Debug\net6.0\site.runtimeconfig.json
+D:\desktop\site\site\site\bin\Debug\net6.0\site.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\site.pdb
+D:\desktop\site\site\site\bin\Debug\net6.0\Humanizer.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\desktop\site\site\site\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\desktop\site\site\site\obj\Debug\net6.0\site.csproj.AssemblyReference.cache
+D:\desktop\site\site\site\obj\Debug\net6.0\site.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop\site\site\site\obj\Debug\net6.0\site.AssemblyInfoInputs.cache
+D:\desktop\site\site\site\obj\Debug\net6.0\site.AssemblyInfo.cs
+D:\desktop\site\site\site\obj\Debug\net6.0\site.csproj.CoreCompileInputs.cache
+D:\desktop\site\site\site\obj\Debug\net6.0\site.MvcApplicationPartsAssemblyInfo.cache
+D:\desktop\site\site\site\obj\Debug\net6.0\site.RazorAssemblyInfo.cache
+D:\desktop\site\site\site\obj\Debug\net6.0\site.RazorAssemblyInfo.cs
+D:\desktop\site\site\site\obj\Debug\net6.0\staticwebassets.build.json
+D:\desktop\site\site\site\obj\Debug\net6.0\staticwebassets.development.json
+D:\desktop\site\site\site\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\desktop\site\site\site\obj\Debug\net6.0\scopedcss\bundle\site.styles.css
+D:\desktop\site\site\site\obj\Debug\net6.0\scopedcss\projectbundle\site.bundle.scp.css
+D:\desktop\site\site\site\obj\Debug\net6.0\site.csproj.CopyComplete
+D:\desktop\site\site\site\obj\Debug\net6.0\site.dll
+D:\desktop\site\site\site\obj\Debug\net6.0\refint\site.dll
+D:\desktop\site\site\site\obj\Debug\net6.0\site.pdb
+D:\desktop\site\site\site\obj\Debug\net6.0\site.genruntimeconfig.cache
+D:\desktop\site\site\site\obj\Debug\net6.0\ref\site.dll
